@@ -16,3 +16,7 @@ include 'services:webservice'
 */
 
 rootProject.name = 'migration-test-project'
+
+// added by Philipp
+include('app')
+
